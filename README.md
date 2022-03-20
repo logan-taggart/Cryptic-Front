@@ -1,4 +1,4 @@
-#Cryptic
+# Cryptic
 
 Application Deployment: <br />
 [Link To Deployed Application](http://half-side.surge.sh/) *(Not Currently Supported In Safari)*
@@ -10,12 +10,12 @@ Application Deployment: <br />
 [Link to Github Cryptic Backend](https://github.com/logan-taggart/CrypticBackend)
 
 
-##Description:
+## Description:
 
 Cryptic is a web application that allows users to search and find the latest information and statistics for the cryptocurrency of their choosing. Users are also able to save a cryptocurrency to their watchlist where they can later view the statistics of the cryptocurrency at the time that it was added to their personal watchlist. From there, Cryptic users can sort their watchlist in two ways. One, they can sort by alphabetical order, date added, or statistical data such as: price, market cap, and volume. Two, they can choose if they would like their watchlist presented in an ascending order or a descending order. In addition, users are able to view information on their Cryptic account through the profile page where they can view the username, email, and first and last name that are associated with the account.
 
 
-##Features:
+## Features:
 
 * **Account System:** <br />
 	* I wanted to make a personalized experience for each specific user and to be able to implement some of the features that are listed below, I determined an account system was the best method for this project. <br />
@@ -32,18 +32,18 @@ Cryptic is a web application that allows users to search and find the latest inf
 * **Sorting Form to Sort A User's Watchlist Data:**
 	* I knew that a watchlist could get very long and cluttered, so I wanted to add an organizational tool that would allow a user to sort their list by a number of different metrics.
 
-##User Flow:
+## User Flow:
 
 The user will either be presented with the option to go to the sign in or create account page if they are not logged in or signed up, or a home page if they are signed in where they can search for information on a cryptocurrency and add it to their watchlist, or they can go to their account information page or watchlist where they can then sort the list by a few different metrics.
 
 
-##API Used:
+## API Used:
 
 [CoinMarketCap API](https://coinmarketcap.com/api/) <br />
 ***The CoinMarketCap API limits the number of requests made to their API to 333 per day.***
 
 
-##Tech Stack Used:
+## Tech Stack Used:
 
 * Javascript
 * NodeJS
@@ -55,7 +55,7 @@ The user will either be presented with the option to go to the sign in or create
 * CSS
 * Bootstrap
 
-##Future Development Plans:
+## Future Development Plans:
 
 1. Add a button to remove cryptocurrencies from a user's watchlist.
 2. Create a button on each cryptocurrency in a watchlist to get updated information and statistics on the selected cryptocurrency.
