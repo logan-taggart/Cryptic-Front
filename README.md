@@ -1,12 +1,5 @@
 # Cryptic
 
-Application Deployment: <br />
-[Link To Deployed Application](http://half-side.surge.sh/) *(Not Currently Supported In Safari)*
-
-- Deployed Frontend using Surge <br />
-- Deployed Backend using Heroku
-
-
 [Link to Github Cryptic Backend](https://github.com/logan-taggart/CrypticBackend)
 
 
