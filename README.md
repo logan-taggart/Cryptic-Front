@@ -1,6 +1,6 @@
 # Cryptic
 
-[Link to Github Cryptic Backend](https://github.com/logan-taggart/CrypticBackend)
+[Link to Github Cryptic Backend](https://github.com/logan-taggart/Cryptic-Back)
 
 
 ## Description:
